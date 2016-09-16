@@ -1,0 +1,11 @@
+
+# Created by https://www.gitignore.io/api/sass,coffeescript
+
+### Sass ###
+.sass-cache/
+*.css.map
+*.min.css
+
+
+### CoffeeScript ###
+*.js
